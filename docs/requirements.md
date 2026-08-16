@@ -210,6 +210,6 @@ The application should display:
 
 **ChitTrack**
 
-*Track Your Chits. Manage Your Savings.*
+_Track Your Chits. Manage Your Savings._
 
 **Powered by FreshStartup**
